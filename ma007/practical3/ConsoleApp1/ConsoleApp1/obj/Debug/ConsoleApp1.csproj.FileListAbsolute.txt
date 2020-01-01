@@ -1,0 +1,7 @@
+D:\ma007\apt_2\practical3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ma007\apt_2\practical3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ma007\apt_2\practical3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ma007\apt_2\practical3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\ma007\apt_2\practical3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ma007\apt_2\practical3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ma007\apt_2\practical3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
